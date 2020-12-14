@@ -1,0 +1,15 @@
+Breath	KEYWORD1
+
+breath	KEYWORD2
+
+breathBYtemperature	KEYWORD2
+
+temperatureSetup	KEYWORD2
+
+ON	LITERAL1
+
+OFF	LITERAL1
+
+DHTPIN	LITERAL1
+
+DHTTYPE	LITERAL1
